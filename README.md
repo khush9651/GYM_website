@@ -27,6 +27,7 @@ This project is a modern, responsive frontend website for a gym. It provides inf
    ```bash
    git clone https://github.com/yourusername/gym-website-frontend.git
    cd gym-website-frontend
+   ```
 2. **Open the project:**
    Open the index.html file in your web browser to view the homepage.
 
@@ -57,19 +58,23 @@ Contributions are welcome! If you would like to contribute to this project, plea
 ```bash
 git clone https://github.com/yourusername/gym-website-frontend.git
 cd gym-website-frontend
+```
 
 ## Create a new branch:
 
 ```bash
 git checkout -b feature/your-feature-name
+```
 
 ## Make your changes and commit them
 ```bash
 git commit -m "Add your message here"
+```
 
 ##Push your changes to your fork
 ```bash
 git push origin feature/your-feature-name
+```
 
 ## Create a pull request
 Open a pull request from your forked repository to the main repository.
