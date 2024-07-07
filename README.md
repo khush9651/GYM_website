@@ -41,7 +41,7 @@ This project is a modern, responsive frontend website for a gym. It provides inf
 
 - Use the navigation bar to explore different sections of the website, such as About Us, Services, Trainers, Membership Plans, and Contact Us.
 
-### Contact Form:
+## Contact Form:
 
 - Fill out the contact form in the Contact Us section to send a message to the gym.
 
@@ -83,4 +83,4 @@ Open a pull request from your forked repository to the main repository.
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Contact
-For any questions or inquiries, please contact [Khushi] at [khush9651@gmail.com].
+For any questions or inquiries, please contact Khushi at khush9651@gmail.com.
