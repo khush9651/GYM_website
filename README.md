@@ -49,7 +49,7 @@ This project is a modern, responsive frontend website for a gym. It provides inf
 
 Contributions are welcome! If you would like to contribute to this project, please follow these steps:
 
-### Fork the repository:
+## Fork the repository:
 
 - Click the "Fork" button at the top right of the repository page.
 
@@ -60,18 +60,18 @@ git clone https://github.com/yourusername/gym-website-frontend.git
 cd gym-website-frontend
 ```
 
-## Create a new branch:
+### Create a new branch:
 
 ```bash
 git checkout -b feature/your-feature-name
 ```
 
-## Make your changes and commit them
+### Make your changes and commit them
 ```bash
 git commit -m "Add your message here"
 ```
 
-##Push your changes to your fork
+### Push your changes to your fork
 ```bash
 git push origin feature/your-feature-name
 ```
